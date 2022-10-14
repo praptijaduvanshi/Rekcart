@@ -1,3 +1,10 @@
+# Rekcart
+
+![alt text] (https://github.com/praptijaduvanshi/Rekcart/blob/main/Screenshots/Screenshot%20(42).png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
