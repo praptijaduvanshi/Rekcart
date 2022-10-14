@@ -1,6 +1,6 @@
 # Rekcart
 
-![alt text] (https://github.com/praptijaduvanshi/Rekcart/blob/main/Screenshots/Screenshot%20(42).png)
+![alt text](https://github.com/praptijaduvanshi/Rekcart/blob/main/Screenshots/Screenshot%20(42).png)
 
 
 
